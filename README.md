@@ -2,7 +2,6 @@
 
 Привет, я Макс. Добро пожаловать в мой темный, но тихий и уютный уголок. 
 
-🌱 
 <table>
   <tr>
     <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2013%2F07%2F12%2F17%2F40%2Ffloral-152207_960_720.png&f=1&nofb=1&ipt=3e49d50b28a24fe81e43ed6f88ac8d7d28168ccc5dbbc0b8ece37fb97a270fd7&ipo=images" width="200" /></td>
